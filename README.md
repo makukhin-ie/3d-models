@@ -14,6 +14,13 @@ All models were printed on an FDM printer and are in use at home.
 | <img src="previews/spout-adapter-v1.png" width="140"> | **Spout adapter** — cylindrical adapter sleeve for a spout / shower head | Переходник на лейку | v1–v2 | ⌀29 × 36 mm |
 | <img src="previews/umbrella-repair-v3.png" width="140"> | **Umbrella repair** — replacement rib part for an umbrella | Ремонт зонтика | v1–v3 (v1 is .skp only) | 23 × 14 × 70 mm |
 | <img src="previews/bag-box-v1.png" width="140"> | **Bag dispenser box** — wall box + lid for storing plastic bags | Ящик для пакетов + Крышка | v1 (box + lid) | 160 × 80 × 80 mm |
+| <img src="previews/roller-remote-holder-v1.png" width="140"> | **Roller-blind remote holder** — wall holder for a roller shutter remote | Держатель для управления ролетом | v1 | 22 × 37 × 31 mm |
+| <img src="previews/vacuum-tube-holder-final.png" width="140"> | **Vacuum tube holder** — wall mount for a Xiaomi vacuum tube (4 design steps + final) | Держатель трубы пылесоса Xiaomi | step1–4, final | 50 × 131 × 34 mm |
+| <img src="previews/crane-v2.png" width="140"> | **Desk crane** — decorative desk crane with a hanging pendant (flat print) | Кран стол | crane v1–v2, pendant v1–v2 + PSD sketch | 94 × 56 × 6 mm |
+| <img src="previews/leg-v3.png" width="140"> | **Furniture leg** — replacement furniture leg, many iterations | Ножка | v1–v3 + f1/1209 iterations | 51 × 31 × 48 mm |
+| <img src="previews/keyboard-foot-v1.png" width="140"> | **Keyboard feet** — replacement tilt feet for a keyboard | Ножки для клавиатуры | v1 | 22 × 107 × 7 mm |
+| <img src="previews/crib-shelf-3sections-v2.png" width="140"> | **Crib shelf** — small organizer shelf for a baby crib, 2- and 3-section variants | Полочка для кроватки | 2 sections; 3 sections v1–v2.1 | — |
+| <img src="previews/kvm-desk-mount.png" width="140"> | **KVM desk mount** — under-desk holder for a KVM switch | KVM держатель для стола | v1 | 67 × 136 × 27 mm |
 
 ## Repository layout
 
